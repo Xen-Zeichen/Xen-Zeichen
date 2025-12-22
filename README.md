@@ -2,9 +2,9 @@
 </p>
 
 
-Hii!!! I'm Xen or Zeich!! This is mainly a W.i.p ^_^
+- Hii!!! I'm Xen or Zeich!! This is mainly a W.i.p ^_^
 
-Please dont take heavy inspo!! or copy!! Please ask if its okay!! 
+- Please dont take heavy inspo!! or copy!! Please ask if its okay!! 
 
 <!-- New: two plush images side-by-side, centered and clickable -->
 <p align="center">
