@@ -14,9 +14,12 @@
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1199526483027304559/1453152533554925730/ChatGPT_Image_Dec_23__2025__05_27_46_PM-removebg-preview.png?ex=694c6942&amp;is=694b17c2&amp;hm=1374990ff8d6e1ba80244a39924f5cc9ac93ed28ecd4e71109137a97e6b9a896&amp;=&amp;format=webp&amp;quality=lossless&amp;width=673&amp;height=449" 
        alt="Pixel Text Image" 
-       width="600"/>
+       width="500"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=52&pause=1200&color=FFD700&center=true&vCenter=true&width=900&height=110&lines=ART+BELOW" alt="Art Below Glitch Banner" />
+</p>
 <!-- New: two plush images side-by-side, centered and clickable -->
 <p align="center">
   <a href="https://glitchproductions.store/cdn/shop/files/v-plush-1.png?v=1762240012" title="V Plush — click to open full image">
@@ -27,11 +30,6 @@
     <img src="https://glitchproductions.store/cdn/shop/files/j-plush-1.png?v=1762242014" alt="J Plush" width="100" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=52&pause=1200&color=FFD700&center=true&vCenter=true&width=900&height=110&lines=ART+BELOW" alt="Art Below Glitch Banner" />
-</p>
-
 
  <p align="center">
  - Line art !!
