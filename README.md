@@ -10,7 +10,6 @@
   />
 </p>
 
-
 - IF U WANNA ADD ME GO AHEADD!!!!! your prob realllyyyy epic and awsome!!
 - Feel Free To check links !! I think theyre pretty cool
   
