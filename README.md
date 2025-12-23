@@ -2,11 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=FFD700&center=true&vCenter=true&width=900&height=120&lines=WELCOME" alt="Glitch Welcome Banner" />
 </p>
 
-
 <p align="center">
   <img
-    src="https://media0.giphy.com/media/M3cqkv72oJMrnK3TzU/giphy.gif"
-    alt="Welcome GIF"
+    src="https://github.com/user-attachments/assets/dda7e79f-36ec-47ba-af01-2ce7a7a1c0cd"
+    width="800"
+    style="max-width: 100%; height: auto;"
+    alt="GitHub Banner"
   />
 </p>
 
@@ -15,8 +16,6 @@
        alt="Pixel Text Image" 
        width="600"/>
 </p>
-
-
 
 <!-- New: two plush images side-by-side, centered and clickable -->
 <p align="center">
