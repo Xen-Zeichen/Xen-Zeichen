@@ -18,7 +18,7 @@
   </a>
 </p>
 
- Look below for art!! Follow my tiktok to see more!!
+ Look below for art!!
  <p align="center">
  - Line art !!
  <p align="center">
