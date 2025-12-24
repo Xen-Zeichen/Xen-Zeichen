@@ -52,7 +52,7 @@
 <img width="417" height="422" alt="Screenshot 2025-12-22 9 57 13 AM" src="https://github.com/user-attachments/assets/d2d46877-c0cb-44e3-a3ad-7dd00a4fe6b1" />
 <img width="424" height="426" alt="Screenshot 2025-12-22 9 57 58 AM" src="https://github.com/user-attachments/assets/427dede3-607c-4f09-a089-3627883835e1" />
  <p align="center">   
-<div style="display:flex; gap:12px; align-items:center;">
+<div style="display:flex; gap:11px; align-items:center;">
  <p align="center">
   <img
     src="https://github.com/user-attachments/assets/4106e741-097d-46b8-b644-8dddb7aede87"
