@@ -12,9 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1199526483027304559/1453152533554925730/ChatGPT_Image_Dec_23__2025__05_27_46_PM-removebg-preview.png?ex=694c6942&amp;is=694b17c2&amp;hm=1374990ff8d6e1ba80244a39924f5cc9ac93ed28ecd4e71109137a97e6b9a896&amp;=&amp;format=webp&amp;quality=lossless&amp;width=673&amp;height=449" 
-       alt="Pixel Text Image" 
-       width="500"/>
+<img width="612" height="408" alt="ChatGPT_Image_Dec_23__2025__05_27_46_PM-removebg-preview" src="https://github.com/user-attachments/assets/395ed0dd-3e35-486c-9723-006657874e2c" />
+
 </p>
 
 <p align="center">
