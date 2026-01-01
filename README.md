@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=FFD700&center=true&vCenter=true&width=900&height=120&lines=WELCOME" alt="Glitch Welcome Banner" />
+<img width="821" height="304" alt="WELCOME___TO_XENS_PAGE__-removebg-preview" src="https://github.com/user-attachments/assets/928217ec-b60e-4862-ae20-836f06154d8d" />
 </p>
 
 <p align="center">
@@ -81,3 +81,7 @@
 <img width="445" height="434" alt="Screenshot 2025-12-22 9 59 11 AM" src="https://github.com/user-attachments/assets/e53e4591-38fd-4a04-aca6-85f2c23389e9" />
 <img width="299" height="403" alt="Screenshot 2025-12-22 9 58 49 AM" src="https://github.com/user-attachments/assets/75690155-02c9-4513-b1c2-f524e30a6bbc" />
 <img width="438" height="439" alt="Screenshot 2025-12-22 9 57 50 AM" src="https://github.com/user-attachments/assets/71dca53c-ba1d-4bd5-bd9d-ddce15f5ddec" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=FFD700&center=true&vCenter=true&width=900&height=120&lines=WELCOME" alt="Glitch Welcome Banner" />
+</p>
