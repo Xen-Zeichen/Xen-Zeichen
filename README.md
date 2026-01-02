@@ -10,7 +10,15 @@
 
 <p align="center">
   Please DNI If associated with Sunnyfoggy/Avery. Reasons Below.
-[View Document](https://docs.google.com/document/d/11ICxHCZTshOs6kfWT95aJj7OdXvVjPnENAXW2WnEdGg)
+  Besides that feel free to int as long as you dont support anything problematic.
+<p align="center">
+
+<p align="center">
+  <a href="https://github.com/user-attachments/files/24403545/DNI.If.associated.with.SunnyFoggy_Avery.pdf">
+    Open Document
+  </a>
+</p>
+
 </p>
 
 <p align="center">
@@ -22,7 +30,8 @@
     <img src="https://glitchproductions.store/cdn/shop/files/v-plush-1.png?v=1762240012" alt="V Plush" width="100" />
   </a>
   &nbsp;&nbsp;&nbsp; <!-- small gap between images -->
-  <a href="https://glitchproductions.store/cdn/shop/files/j-plush-1.png?v=1762242014" title="J Plush — click to open full image">
+  <a href="https://glitchproductions.store/cdn/shop/fil[DNI If associated with SunnyFoggy_Avery.pdf](https://github.com/user-attachments/files/24403539/DNI.If.associated.with.SunnyFoggy_Avery.pdf)
+es/j-plush-1.png?v=1762242014" title="J Plush — click to open full image">
     <img src="https://glitchproductions.store/cdn/shop/files/j-plush-1.png?v=1762242014" alt="J Plush" width="100" />
   </a>
 </p>
