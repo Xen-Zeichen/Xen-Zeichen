@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Please DNI If associated with person below. Honestly depends. I just don't want anything to do with them. 
+  Please DNI If associated with person below in document. Honestly depends. I just don't want anything to do with them. 
   Besides that feel free to int as long as you dont support anything problematic like d@rkshippers.
 <p align="center">
 
