@@ -10,7 +10,7 @@
 
 <p align="center">
   Please DNI If associated with Sunnyfoggy/Avery. Reasons Below.
-https://docs.google.com/document/d/11ICxHCZTshOs6kfWT95aJj7OdXvVjPnENAXW2WnEdGg/edit?usp=sharing
+[View Document](https://docs.google.com/document/d/11ICxHCZTshOs6kfWT95aJj7OdXvVjPnENAXW2WnEdGg)
 </p>
 
 <p align="center">
